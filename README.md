@@ -39,8 +39,7 @@ UCB1 = wins/visits + C × √(ln(parent_visits) / visits) - penalty × losses
 
 ```
 ├── main.py                    # MCTS implementation + AI vs AI gameplay
-├── main_play_vs_ai.py         # Human vs AI gameplay
-├── main_animated.py           # Animated AI vs AI with live stats
+├── simulation.png 
 └── README.md
 ```
 
